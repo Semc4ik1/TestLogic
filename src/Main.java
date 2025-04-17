@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        // Создаем объект класса Logic
+//        urodi
         Logic logic = new Logic();
 
         // Используем метод addNumbers для вычисления суммы чисел
