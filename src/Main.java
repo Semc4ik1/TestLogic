@@ -1,6 +1,9 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Hello world!");
+        Calculator calculator = new Calculator();
+
+        int result = calculator.addNumbers(5,7);
+        System.out.println("Сумма равна: " + result);
     }
 }
